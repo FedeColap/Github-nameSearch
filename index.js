@@ -1,5 +1,5 @@
 const searchURL = "https://api.github.com/users/";
-const apiKey = "70074da6154e53a9a697229d876134d8363d36e5";
+const apiKey = "";
 
 function formatQueryParams(params) {
     const queryItems = Object.keys(params)
